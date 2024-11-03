@@ -1,7 +1,7 @@
 # 📊 AI Agent Report Maker - Deploy Edition
 
 ## Overview
-This project extends an initial implementation developed for a hackathon, where the core functionality of generating reports based on natural language prompts was introduced. In this modified version, additional functionality has been added to allow the AI agent to **extract the client ID directly from the input prompt**, enhancing the app's usability and accuracy.
+This project extends an initial implementation developed for a hackathon ([Full project](https://github.com/ezemriv/AI-Agent-Report-Maker-Full)), where the core functionality of generating reports based on natural language prompts was introduced. In this modified version, additional functionality has been added to allow the AI agent to **extract the client ID directly from the input prompt**, enhancing the app's usability and accuracy.
 
 The **AI Agent Report Generator** is a Python-based application that allows users to create custom PDF reports for clients using natural language prompts. Powered by an AI agent, this app interprets instructions, extracts essential information (e.g., client ID and date range), and generates a comprehensive report that includes visual data summaries. The interface is built using **Gradio**, making it simple and accessible from any web browser.
 
