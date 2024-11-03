@@ -1,0 +1,8 @@
+pandas
+fpdf
+langchain
+langchain-ollama
+gradio
+matplotlib
+seaborn
+
