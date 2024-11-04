@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/LangChain-white?logo=langchain&logoColor=4B0082" style="height: 25px; width: auto;">  <img src="images/logos--gradio-icon.png" alt="Gradio logo" style="height: 15px; background-color: #D3D3D3; padding: 4px; border-radius: 5px;"><img src="https://img.shields.io/badge/Gradio-white?" style="height: 25px; width: auto;">
+
 # 📊 AI Agent Report Maker - Deploy Edition
 
 ## Overview
@@ -8,7 +10,7 @@ The **AI Agent Report Generator** is a Python-based application that allows user
 ## 🚀 Example of Running App
 
 <p align="center">
-  <img src="gif/running.gif" alt="App Running Example" width="600"/>
+  <img src="images/running.gif" alt="App Running Example" width="600"/>
 </p>
 
 ## ✨ Features
